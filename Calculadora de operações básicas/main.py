@@ -12,7 +12,7 @@ escolha = input('Digite sua escolha(1/2/3/4):')
 if escolha =='1':
 
    resultado = num1 + num2
-   print('{} + {} = {}' .format(num1, num2,resultado))
+   print('{} + {} = {}' .format(num1, num2, resultado))
 
 elif escolha =='2':
    
